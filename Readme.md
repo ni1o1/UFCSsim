@@ -1,6 +1,6 @@
-# Code Archive for NCOMMS-25-08422-T
+# Code Archive for NCOMMS-25-08422B
 
-This repository contains the Python code for the analysis in "NCOMMS-25-08422-T". It simulates Ultra-Fast Charging Station (UFCS) deployment, optimizes Energy Storage System (ESS) operation, and assesses grid risks.
+This repository contains the Python code for the analysis in "NCOMMS-25-08422B". It simulates Ultra-Fast Charging Station (UFCS) deployment, optimizes Energy Storage System (ESS) operation, and assesses grid risks.
 
 ## File Descriptions:
 
